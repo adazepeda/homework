@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>Pagina Principal </title>
+</head>
+<body bgcolor="darkkhaki">
+<h1 align="center">Datos Personales </h1>
+<div align="center">
+<img src="https://data.whicdn.com/images/93833394/large.png" width="200" heigth="150">
+</div>
+&nbsp;
+<table border="1", style="margin: 0 auto;">
+	<tr> 
+	    <th scope="col">Nombre</th>
+	    <th>Ada Luisa Escobar Chinchilla</td>
+	</tr>
+
+	<tr>
+	    <th scope="col">Edad</th>
+	    <td>19</td>
+	</tr>
+	
+	<tr>
+	   <th scope="col">Genero</th>
+	   <td>Femenino</td>
+	</tr>
+
+	<tr>
+	   <th scope="col">Nacionalidad</th>
+	   <td>Jamaiquina</td>
+	</tr>
+
+	<tr>
+	   <th scope="col">Nivel educativo</th>
+	   <td>Universitario</td>
+	</tr>
+</table>
+
+<h1 align="center"> Gustos</h1>
+&nbsp;
+<table border="1", style="margin: 0 auto;">
+	<tr>
+	   <th scope="col">Deportes</th>
+	   <th scope="col">Raza de perros</th>
+	   <th scope="col">Cantante Favorito</th>
+	   <th scope="col">Pelicula Favorita</th>
+	</tr>
+
+	<tr>
+	   <td>Tennis</td>
+	   <td>Samoyedo</td>
+	   <td>Lorde</td>
+	   <td>El laberinto del fauno</td>
+	</tr>
+
+	<tr>
+	   <td><img src="http://www.lovethispic.com/uploaded_images/140326-Tennis-Match-During-Sunset.jpg" width="200" heigth="150"></td>
+	   <td><img src="https://i.pinimg.com/236x/ee/11/af/ee11af0c876a186b66df6f663b80ac45--samoyed-puppies-buy-puppies.jpg?b=t" width="200" heigth="150"></td>
+	   <td><iframe width="560" height="315" src="https://www.youtube.com/embed/3Vd8khu-7Os" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+           <td><<iframe width="560" height="315" src="https://www.youtube.com/embed/AHgfiFYfPBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><td>
+	</tr>
+</table>
+&nbsp;
+<div align="center">
+<a href="file:///C:/Users/usuario/Desktop/ada%206590-18-16976%20wimer%20Lopez%206590-18-15173/secpage.html">Enlace a otros gustos</a>
+</div>
+</body>
+</html>	
